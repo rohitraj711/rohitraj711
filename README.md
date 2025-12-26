@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit Raj
 
-<!--
-**rohitraj711/rohitraj711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (IoT) student at Bihar Engineering University (BEU), Patna  
+💻 Aspiring Software & Web Developer  
+🌱 Currently learning Java and strengthening problem-solving skills  
+🚀 Passionate about coding, learning new technologies, and improving my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### Programming Languages
+- C  
+- Python  
+- Java (Learning)
+
+### Web Technologies
+- HTML  
+- CSS  
+- JavaScript (Beginner)
+
+### Tools & Platforms
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📫 Contact & Location
+- 🌐 GitHub: https://github.com/rohitraj711  
+- 📍 Location: Bihar, India  
+
+---
+
+⭐ Thank you for visiting my profile!
